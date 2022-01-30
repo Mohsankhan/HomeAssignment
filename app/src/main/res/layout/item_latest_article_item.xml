@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parent_card"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardElevation="3dp"
+    android:elevation="3dp"
+    android:layout_margin="5dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="10dp"
+    app:cardUseCompatPadding="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:padding="10dp">
+
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/img_card"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:scaleType="fitXY"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:cardBackgroundColor="@color/browser_actions_bg_grey"
+                app:cardCornerRadius="10dp">
+
+                <ImageView
+                    android:id="@+id/image"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitXY" />
+            </androidx.cardview.widget.CardView>
+            <TextView
+                android:id="@+id/title_label"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:fontFamily="@font/poppins_bold"
+                android:textSize="18sp"
+                android:gravity="left|center"
+                android:includeFontPadding="false"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toLeftOf="@id/img_card"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/abstract_label"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Khanzada bilal Khanzada bilal Khanzada bilalKhanzada bilal"
+            android:fontFamily="@font/poppins_regular"
+            android:textSize="14sp"
+            android:gravity="left|center"
+            android:layout_marginTop="5dp"
+            android:includeFontPadding="false"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@id/img_card"
+            app:layout_constraintTop_toBottomOf="@id/title_label" />
+
+        <TextView
+            android:id="@+id/time_ago_publish_date"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:fontFamily="@font/poppins_regular"
+            android:textSize="12sp"
+            android:gravity="left|center"
+            android:layout_marginTop="5dp"
+            android:includeFontPadding="false"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/abstract_label" />
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>

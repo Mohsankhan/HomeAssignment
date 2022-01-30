@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TechnologyAssesment/android/app/src/main/res/layout/fragment_splash.xml" value="0.10192147034252297" />
+        <entry key="..\:/android/app/src/main/res/drawable-v24/dialog_progress_custom.xml" value="0.1606837606837607" />
+        <entry key="..\:/android/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android/app/src/main/res/layout/custom_dialog.xml" value="0.1381340579710145" />
+        <entry key="..\:/android/app/src/main/res/layout/fragment_detail_screen.xml" value="0.1381340579710145" />
+        <entry key="..\:/android/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/android/app/src/main/res/layout/fragment_splash.xml" value="0.10170940170940171" />
+        <entry key="..\:/android/app/src/main/res/layout/item_latest_article_item.xml" value="0.264" />
+        <entry key="app/src/main/res/drawable/active.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/button_bg_with_border.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/button_rounded_curves.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/grey_rounded_bg.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_back_nav_icn.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_edit.xml" value="0.14572649572649574" />
+        <entry key="app/src/main/res/drawable/text_bg_with_curve.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_billing_summary.xml" value="0.14444444444444443" />
+        <entry key="app/src/main/res/layout/fragment_cash_sale.xml" value="0.15128205128205127" />
+        <entry key="app/src/main/res/layout/fragment_conciliation.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/fragment_products_list.xml" value="0.13247863247863248" />
+        <entry key="app/src/main/res/layout/fragment_sale_entry.xml" value="0.15128205128205127" />
+        <entry key="app/src/main/res/layout/fragment_sales_report.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.1141025641025641" />
+        <entry key="app/src/main/res/layout/fragment_stock.xml" value="0.16329113924050634" />
+        <entry key="app/src/main/res/layout/fragment_user_detail.xml" value="0.147008547008547" />
+        <entry key="app/src/main/res/layout/item_product.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_sale_report_whole_view.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout_add_discount_dialog.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/layout_add_stock_dialog.xml" value="0.147008547008547" />
+        <entry key="app/src/main/res/layout/layout_add_update_product_dialog.xml" value="0.147008547008547" />
+        <entry key="app/src/main/res/layout/layout_add_update_user_dialog.xml" value="0.1311965811965812" />
+        <entry key="app/src/main/res/layout/layout_update_delete_delivery_dialog.xml" value="0.147008547008547" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.10726495726495726" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.10726495726495726" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="conciliation_item_padding">20dp</dimen>
+    <dimen name="conciliation_item_height">80dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+</resources>

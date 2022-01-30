@@ -1,0 +1,19 @@
+<resources>
+    <string name="products">Products</string>
+    <string name="stock">Stock</string>
+    <string name="sales_report">Sales Report</string>
+    <string name="delivery_boy">Delivery Boy</string>
+    <string name="customers">Customers</string>
+    <string name="or_n_don_t_have_account_signup"><u>Register as a delivery man</u></string>
+    <string name="already_have_account_login"><br /> <u>Back To Login</u></string>
+    <string name="conciliation">Conciliation</string>
+    <string name="quantity_can_not_be_empty">Quantity can not be empty</string>
+    <string name="quantity_must_be_under_available_stock">Quantity must be under available stock</string>
+    <string name="most_popular_articles">Most Popular Articles</string>
+    <string name="error_title">Error</string>
+    <string name="btn_ok">Ok</string>
+    <string name="networkerror_meesgae">Internet is not available, Please try again later.</string>
+    <string name="error">Coundn\'t load data from server.</string>
+    <string name="internet_available">You are online!</string>
+    <string name="internet_not_available">No Internet Connection!</string>
+</resources>
